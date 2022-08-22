@@ -1,5 +1,5 @@
 {% set name = "ascii-art" %}
-{% set version = "5.5" %}
+{% set version = "5.7" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/art/art-{{ version }}.tar.gz
-  sha256: 9a0f3b44dccdcffab7811061eba1914378f75a33e7c535dcc37cc9d000642640
+  sha256: 9aea0dcdadb16be9b4a6a2aaa74fb6550555678bbef66a1be65effc9e3d250ca
 
 build:
   noarch: python

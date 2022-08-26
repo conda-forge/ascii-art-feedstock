@@ -1,7 +1,7 @@
 About ascii-art
 ===============
 
-Home: https://github.com/sepandhaghighi/art
+Home: https://www.4r7.ir
 
 Package license: MIT
 
@@ -10,6 +10,12 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ascii-art-feeds
 Summary: ASCII Art Library For Python
 
 Development: https://github.com/sepandhaghighi/art
+
+ASCII art is also known as "computer text art".
+It involves the smart placement of typed special characters or
+letters to make a visual shape that is spread over multiple lines of text.
+ART is a Python lib for text converting to ASCII art fancy.
+
 
 Current build status
 ====================
@@ -145,5 +151,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@sadrasabouri](https://github.com/sadrasabouri/)
+* [@sepandhaghighi](https://github.com/sepandhaghighi/)
 * [@thewchan](https://github.com/thewchan/)
 

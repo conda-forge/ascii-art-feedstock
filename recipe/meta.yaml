@@ -31,7 +31,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/sepandhaghighi/art
+  home: https://www.4r7.ir
   summary: ASCII Art Library For Python
   dev_url: https://github.com/sepandhaghighi/art
   license: MIT
@@ -41,10 +41,6 @@ about:
         It involves the smart placement of typed special characters or
         letters to make a visual shape that is spread over multiple lines of text.
         ART is a Python lib for text converting to ASCII art fancy.
-
-        Website: https://www.4r7.ir
-
-        Repo: https://github.com/sepandhaghighi/art
 extra:
   recipe-maintainers:
     - thewchan

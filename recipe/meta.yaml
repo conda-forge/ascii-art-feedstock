@@ -12,7 +12,7 @@ source:
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 0
+  number: 1
 
 requirements:
   host:
@@ -31,7 +31,7 @@ test:
     - pip
 
 about:
-  home: https://www.4r7.ir
+  home: https://www.ascii-art.site
   summary: ASCII Art Library For Python
   dev_url: https://github.com/sepandhaghighi/art
   license: MIT

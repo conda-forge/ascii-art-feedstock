@@ -1,7 +1,7 @@
 About ascii-art
 ===============
 
-Home: https://www.4r7.ir
+Home: https://www.ascii-art.site
 
 Package license: MIT
 

@@ -13,20 +13,22 @@ build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
   number: 0
+  entry_points:
+    - art = art.__main__:main
 
 requirements:
   host:
     - pip
-    - python >=2.7
+    - python >=3.5
   run:
-    - python >=2.7
+    - python >=3.5
 
 test:
   imports:
     - art
   commands:
     - pip check
-    - python -m art test2
+    - art test2
   requires:
     - pip
 

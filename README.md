@@ -3,7 +3,7 @@ About ascii-art-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ascii-art-feedstock/blob/main/LICENSE.txt)
 
-Home: https://www.ascii-art.site
+Home: https://www.ascii-art.site/
 
 Package license: MIT
 
@@ -15,7 +15,6 @@ ASCII art is also known as "computer text art".
 It involves the smart placement of typed special characters or
 letters to make a visual shape that is spread over multiple lines of text.
 ART is a Python lib for text converting to ASCII art fancy.
-
 
 Current build status
 ====================
